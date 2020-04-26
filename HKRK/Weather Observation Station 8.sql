@@ -1,4 +1,3 @@
-/* 
 SELECT DISTINCT CITY
 FROM STATION
 WHERE (CITY LIKE 'a%'
@@ -10,10 +9,15 @@ AND (CITY LIKE '%a'
 OR CITY LIKE '%e'
 OR CITY LIKE '%i'
 OR CITY LIKE '%o'
-OR CITY LIKE '%u') 
-*/
+OR CITY LIKE '%u')
+
 
 SELECT DISTINCT CITY
 FROM STATION
 
 WHERE SUBSTR(CITY, 1, 1) IN ('A', 'E', 'I', 'O', 'U') AND SUBSTR(CITY, -1) IN ('a', 'e', 'i', 'o', 'u')
+
+
+SELECT CITY 
+FROM STATION
+WHERE CITY REGEXP '^[aeiou].*[aeiou]$'
