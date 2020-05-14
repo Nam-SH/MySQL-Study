@@ -1,3 +1,5 @@
+-- 어렵;;
+
 SELECT first.submission_date, first.hacker_cnt, second.hacker_id, h.name
 FROM (
          SELECT submission_date, COUNT(distinct hacker_id) AS hacker_cnt
