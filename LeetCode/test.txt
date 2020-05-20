@@ -1,0 +1,31 @@
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: FCF0-A70E
+
+ C:\github\Mine\1_MYSQL\LeetCode 디렉터리
+
+2020-05-20  오후 07:01    <DIR>          .
+2020-05-20  오후 07:01    <DIR>          ..
+2020-05-20  오후 07:00    <DIR>          .ipynb_checkpoints
+2020-04-23  오후 02:37             4,645 1179 - Reformat Department Table.ipynb
+2020-05-20  오후 06:57             1,876 175. Combine Two Tables.ipynb
+2020-05-20  오후 06:57             1,546 176. Second Highest Salary.ipynb
+2020-04-27  오후 09:42             2,693 177. Nth Highest Salary.ipynb
+2020-05-20  오후 06:57             1,776 178. Rank Scores.ipynb
+2020-04-26  오후 12:01             3,229 180 - Consecutive Numbers.ipynb
+2020-04-23  오후 05:35             1,769 181 - Employees Earning More Than Their Managers.ipynb
+2020-05-20  오후 06:58             1,444 182. Duplicate Emails.ipynb
+2020-04-23  오후 02:36             1,728 183 - Customers Who Never Order.ipynb
+2020-04-26  오후 12:29             3,857 184 - Department Highest Salary.ipynb
+2020-04-26  오후 01:31             3,037 185 - Department Top Three Salaries.ipynb
+2020-04-26  오전 09:54             2,076 196 - Delete Duplicate Emails.ipynb
+2020-04-23  오후 05:49             1,761 197 - Rising Temperature.ipynb
+2020-05-20  오후 06:58             2,330 595. Big Countries.ipynb
+2020-05-20  오후 06:59             1,692 596. Classes More Than 5 Students.ipynb
+2020-05-20  오후 07:00             2,272 620. Not Boring Movies.ipynb
+2020-05-20  오후 06:59             2,110 626. Exchange Seats.ipynb
+2020-05-20  오후 07:00             1,812 627 - Swap Salary.ipynb
+2020-05-15  오후 08:10               372 README.md
+2020-05-20  오후 07:01                 0 test.txt
+2020-05-15  오후 08:10               396 text.txt
+              21개 파일              42,421 바이트
+               3개 디렉터리  274,147,000,320 바이트 남음
